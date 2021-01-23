@@ -8,6 +8,7 @@ body {
     font-family: 'open sans';
 }
 
+
 .contenedor {
     padding: 60px 0;
     width: 90%;
@@ -43,6 +44,7 @@ nav {
     text-align: right;
     padding: 30px 50px 0 0;
 }
+
 
 nav>a {
     color: #fefae0;
